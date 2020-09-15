@@ -4,6 +4,4 @@ NavBar
 
 Header
 
-MAIN
-
 Footer
