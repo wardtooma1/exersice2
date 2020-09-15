@@ -1,11 +1,15 @@
 Hello World
 
-NavBar
+Nav Bar
 
 Header
 
-MAIN
-
 Footer
 
+
+
+
 **just another day**
+=======
+Portfolio
+
