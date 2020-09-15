@@ -2,6 +2,8 @@ Hello World
 
 Nav Bar
 
+Sidebar
+
 Header
 
 Footer
