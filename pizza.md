@@ -1,6 +1,10 @@
+    Dough
+    White sauce
+    Olive
+    Onion
+    Gorgonzola
 
 Dough
-    Tomato sauce
-    Salami
-    <nothing>
-    Mozzarella
+Tomato sauce
+Olive
+Mozzarella
